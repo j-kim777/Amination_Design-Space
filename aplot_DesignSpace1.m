@@ -1,3 +1,10 @@
+'''
+Created by Junu Kim (j-kim@pse.t.u-tokyo.ac.jp) at the University of Tokyo
+Modified on Jan. 25th, 2024
+
+Publication title: Kinetic study and model-based design space determination for a drug substance flow synthesis using amination reaction via nucleophilic aromatic substitution
+'''
+
 for xxx = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
     filename1 = sprintf('1_Design_space_total_ID_%d.csv', xxx)
     %filename1='1_PMI_DP_total_f_1_ID_0_temp_' + xxx + '.csv';%プロットしたいデータのファイル指定
